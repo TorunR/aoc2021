@@ -1,4 +1,3 @@
-import java.lang.Exception
 import kotlin.streams.toList
 
 fun main() {
